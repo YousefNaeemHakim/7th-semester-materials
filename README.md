@@ -1,5 +1,5 @@
 # 7th-semester-materials
-## Courses
+## Semester Courses
 
 - [Selected Topics in SWE](https://github.com/YousefNaeemHakim/7th-semester-materials/blob/main/Selected%20Topics%20in%20SWE.md)
 - [Software Engineering ||](https://github.com/YousefNaeemHakim/7th-semester-materials/blob/main/Software%20Engineering%20%7C%7C.md)
